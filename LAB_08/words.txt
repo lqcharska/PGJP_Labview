@@ -1,0 +1,7 @@
+kot;cat
+pies;dog
+komputer;computer
+ojciec;father
+matka;mother
+brat;brother
+siostra;sister
